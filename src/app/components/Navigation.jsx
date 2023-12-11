@@ -13,6 +13,10 @@ const links = [
     label: "Posts",
     route: "/posts",
   },
+  {
+    label: "Usuarios",
+    route: "/usuarios",
+  },
 ];
 
 export function Navigation() {
